@@ -1,0 +1,7 @@
+line-bot-sdk==3.7.0
+flask==3.0.0
+azure-ai-language-conversations==1.1.0
+configparser
+OpenAI
+requests
+json
